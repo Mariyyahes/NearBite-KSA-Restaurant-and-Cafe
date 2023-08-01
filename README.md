@@ -51,8 +51,7 @@ The code in this repository includes exploratory data analysis (EDA) of the data
 
 Please note that the `total_reviews` feature is not present in the original dataset, and was created as part of the EDA.
 
-# __________________________________________________________________________________________________________________________________
-
+# __________________________________________
 
 # Saudi Arabia Restaurant and Cafe Dataset Telegram Chatbot <br><br>
 
