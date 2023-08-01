@@ -1,4 +1,5 @@
-# NearBite-KSA-Restaurant-and-Cafe
+#![2-02](https://github.com/Mariyyahes/NearBite-KSA-Restaurant-and-Cafe/assets/53354457/f1a153ab-86dd-4526-a968-8bc42ba8be5d)
+ NearBite-KSA-Restaurant-and-Cafe
 This repository contains code for exploring and cleaning a dataset of restaurants and cafes in Saudi Arabia. The dataset was collected from Google Maps and includes information about ( 5000 rows ) such as the name, type, location, and working hours of each establishment. <br> <br>
 
 - pandas <br>
@@ -51,7 +52,7 @@ The code in this repository includes exploratory data analysis (EDA) of the data
 
 Please note that the `total_reviews` feature is not present in the original dataset, and was created as part of the EDA.
 
-#__________________________________________________________________________________________________________________________________
+# __________________________________________________________________________________________________________________________________
 
 
 # Saudi Arabia Restaurant and Cafe Dataset Telegram Chatbot <br><br>
